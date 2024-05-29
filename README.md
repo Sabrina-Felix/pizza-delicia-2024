@@ -6,5 +6,5 @@ Este repositorio serve apenas como teste para exercicios de utilização de form
 ## Prints de Tela
 https://github.com/Sabrina-Felix/pizza-delicia-2024/blob/master/miniaturas/Captura%20de%20tela%202024-05-29%20084609.png
 
-## Desenvolvidores
+## Desenvolvidores (autores)
 Zuleika e Pafuncio
